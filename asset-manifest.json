@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/bafkho/static/css/main.52823d5f.chunk.css",
-    "main.js": "/bafkho/static/js/main.47591e7c.chunk.js",
-    "main.js.map": "/bafkho/static/js/main.47591e7c.chunk.js.map",
+    "main.js": "/bafkho/static/js/main.221e8564.chunk.js",
+    "main.js.map": "/bafkho/static/js/main.221e8564.chunk.js.map",
     "runtime-main.js": "/bafkho/static/js/runtime-main.e35e67c4.js",
     "runtime-main.js.map": "/bafkho/static/js/runtime-main.e35e67c4.js.map",
     "static/css/2.e2dd9b0a.chunk.css": "/bafkho/static/css/2.e2dd9b0a.chunk.css",
-    "static/js/2.f734c7eb.chunk.js": "/bafkho/static/js/2.f734c7eb.chunk.js",
-    "static/js/2.f734c7eb.chunk.js.map": "/bafkho/static/js/2.f734c7eb.chunk.js.map",
+    "static/js/2.998d751b.chunk.js": "/bafkho/static/js/2.998d751b.chunk.js",
+    "static/js/2.998d751b.chunk.js.map": "/bafkho/static/js/2.998d751b.chunk.js.map",
     "index.html": "/bafkho/index.html",
-    "precache-manifest.e1e84983ba5b81eb696079f591092a72.js": "/bafkho/precache-manifest.e1e84983ba5b81eb696079f591092a72.js",
+    "precache-manifest.b553ed0bf527df554d3a2190058d5b00.js": "/bafkho/precache-manifest.b553ed0bf527df554d3a2190058d5b00.js",
     "service-worker.js": "/bafkho/service-worker.js",
     "static/css/2.e2dd9b0a.chunk.css.map": "/bafkho/static/css/2.e2dd9b0a.chunk.css.map",
     "static/css/main.52823d5f.chunk.css.map": "/bafkho/static/css/main.52823d5f.chunk.css.map",
-    "static/js/2.f734c7eb.chunk.js.LICENSE.txt": "/bafkho/static/js/2.f734c7eb.chunk.js.LICENSE.txt",
+    "static/js/2.998d751b.chunk.js.LICENSE.txt": "/bafkho/static/js/2.998d751b.chunk.js.LICENSE.txt",
     "static/media/FAB30RPK3-324x324.jpg": "/bafkho/static/media/FAB30RPK3-324x324.defdb452.jpg",
     "static/media/KBOV-3001BG-KBOV-2001BG-detail-removable-filter-vintage.jpg": "/bafkho/static/media/KBOV-3001BG-KBOV-2001BG-detail-removable-filter-vintage.65af2cf8.jpg",
     "static/media/KBOV-3001BG-KBOV-2001BG-detail-water-level-indicator-vintage.jpg": "/bafkho/static/media/KBOV-3001BG-KBOV-2001BG-detail-water-level-indicator-vintage.f6df09a5.jpg",
@@ -51,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.e35e67c4.js",
     "static/css/2.e2dd9b0a.chunk.css",
-    "static/js/2.f734c7eb.chunk.js",
+    "static/js/2.998d751b.chunk.js",
     "static/css/main.52823d5f.chunk.css",
-    "static/js/main.47591e7c.chunk.js"
+    "static/js/main.221e8564.chunk.js"
   ]
 }
