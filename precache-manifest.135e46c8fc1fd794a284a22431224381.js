@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "516b1d11563017a47e7c6bac908ce4ce",
+    "revision": "615b4be932412081b7caf4bceb2e6240",
     "url": "/bafkho/index.html"
   },
   {
-    "revision": "820a57a764803ee3a2ae",
+    "revision": "966469fa4f09429e1492",
     "url": "/bafkho/static/css/2.e2dd9b0a.chunk.css"
   },
   {
-    "revision": "56907f7a875bbf07637c",
-    "url": "/bafkho/static/css/main.e861e6c3.chunk.css"
+    "revision": "099983c7e556d22f70e2",
+    "url": "/bafkho/static/css/main.c6609375.chunk.css"
   },
   {
-    "revision": "820a57a764803ee3a2ae",
-    "url": "/bafkho/static/js/2.523bace3.chunk.js"
+    "revision": "966469fa4f09429e1492",
+    "url": "/bafkho/static/js/2.6a05c451.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/bafkho/static/js/2.523bace3.chunk.js.LICENSE.txt"
+    "url": "/bafkho/static/js/2.6a05c451.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56907f7a875bbf07637c",
-    "url": "/bafkho/static/js/main.746c7e22.chunk.js"
+    "revision": "099983c7e556d22f70e2",
+    "url": "/bafkho/static/js/main.c5a7c976.chunk.js"
   },
   {
     "revision": "237ee3098c57c0a68ee3",
@@ -46,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "923522e61ea16f3706a5ab116a002ef3",
     "url": "/bafkho/static/media/IMG_1197-1024x768.923522e6.jpg"
+  },
+  {
+    "revision": "4a1fc13b6f0b631d76663667d7023863",
+    "url": "/bafkho/static/media/KBA3001W.4a1fc13b.jpg"
+  },
+  {
+    "revision": "f5e30b642947ab75b15239d8b0b121c4",
+    "url": "/bafkho/static/media/KBJ3001W.f5e30b64.jpg"
   },
   {
     "revision": "65af2cf8ef47721586514a844c5317ad",
@@ -82,6 +90,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d03902b896df6f838f43231e8a172966",
     "url": "/bafkho/static/media/VC32801R.d03902b8.jpg"
+  },
+  {
+    "revision": "a68a95c93b59451a8941520299365cdf",
+    "url": "/bafkho/static/media/WK1558B.a68a95c9.jpg"
+  },
+  {
+    "revision": "4a6ff853a0964b6a599fd06b9d344765",
+    "url": "/bafkho/static/media/WK2314G.4a6ff853.jpg"
   },
   {
     "revision": "93114d76f47f0f7ed731aea0237b9b05",
