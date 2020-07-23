@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "784bd0544a61914ffee9f6f12c4b238d",
+    "revision": "2831e8911686e54bfbae09d7e47f278e",
     "url": "/bafkho/index.html"
   },
   {
-    "revision": "7af3593601e65755600c",
+    "revision": "641d14b15fb0ca71606f",
     "url": "/bafkho/static/css/2.e2dd9b0a.chunk.css"
   },
   {
-    "revision": "2c8e3dc533d0a8ad377e",
-    "url": "/bafkho/static/css/main.7462960f.chunk.css"
+    "revision": "0d3ef6941330e53c9204",
+    "url": "/bafkho/static/css/main.3f1e3fbe.chunk.css"
   },
   {
-    "revision": "7af3593601e65755600c",
-    "url": "/bafkho/static/js/2.f5322b74.chunk.js"
+    "revision": "641d14b15fb0ca71606f",
+    "url": "/bafkho/static/js/2.113b30c8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/bafkho/static/js/2.f5322b74.chunk.js.LICENSE.txt"
+    "url": "/bafkho/static/js/2.113b30c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c8e3dc533d0a8ad377e",
-    "url": "/bafkho/static/js/main.d861af43.chunk.js"
+    "revision": "0d3ef6941330e53c9204",
+    "url": "/bafkho/static/js/main.684b1046.chunk.js"
   },
   {
     "revision": "237ee3098c57c0a68ee3",
@@ -116,8 +116,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bafkho/static/media/bill.f708e7c9.svg"
   },
   {
+    "revision": "c39b57bb583f4bc3a8bc22ac079cf9c8",
+    "url": "/bafkho/static/media/cancel-black.c39b57bb.svg"
+  },
+  {
     "revision": "45ff93b1c58a2d01befc9a5eb602f5ee",
     "url": "/bafkho/static/media/cancel.45ff93b1.svg"
+  },
+  {
+    "revision": "f6357ecb2f0126b271c974cac8e0ab18",
+    "url": "/bafkho/static/media/checkout.f6357ecb.svg"
   },
   {
     "revision": "6616af6c9c6ba769d9b640e90491ba59",
@@ -142,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44cbc3cc3a751c6c214234492933f193",
     "url": "/bafkho/static/media/facebook.44cbc3cc.svg"
+  },
+  {
+    "revision": "7a8b9929776be02f7cd43829a8b7079c",
+    "url": "/bafkho/static/media/garbage.7a8b9929.svg"
   },
   {
     "revision": "34ecc3a042d09301fb870dec86c01831",
@@ -176,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bafkho/static/media/mobicred.88eb9fe5.png"
   },
   {
+    "revision": "6b329e0216d26a0266fab15ff0973300",
+    "url": "/bafkho/static/media/payfast_logo_colour.6b329e02.svg"
+  },
+  {
     "revision": "dcdf489a5cd0560a37a7957c27acae9e",
     "url": "/bafkho/static/media/right-arrow.dcdf489a.svg"
   },
@@ -190,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae5cc0ef590d84ab0c91f1d7ff8551b2",
     "url": "/bafkho/static/media/twitter.ae5cc0ef.svg"
+  },
+  {
+    "revision": "57b4e6a35314d4e362b753d5f0139e2f",
+    "url": "/bafkho/static/media/unlock.57b4e6a3.svg"
   },
   {
     "revision": "ed0e65fc70f7364947ed37ebbde1d288",
