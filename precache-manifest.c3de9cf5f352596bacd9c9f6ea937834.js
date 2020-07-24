@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2831e8911686e54bfbae09d7e47f278e",
+    "revision": "66d4f5ba3d36b4226d5a241f67c4bc99",
     "url": "/bafkho/index.html"
   },
   {
-    "revision": "641d14b15fb0ca71606f",
+    "revision": "edffc83a83bed9f81551",
     "url": "/bafkho/static/css/2.e2dd9b0a.chunk.css"
   },
   {
-    "revision": "0d3ef6941330e53c9204",
-    "url": "/bafkho/static/css/main.3f1e3fbe.chunk.css"
+    "revision": "41241fc793c8992b743c",
+    "url": "/bafkho/static/css/main.96fc7a69.chunk.css"
   },
   {
-    "revision": "641d14b15fb0ca71606f",
-    "url": "/bafkho/static/js/2.113b30c8.chunk.js"
+    "revision": "edffc83a83bed9f81551",
+    "url": "/bafkho/static/js/2.10e60d02.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/bafkho/static/js/2.113b30c8.chunk.js.LICENSE.txt"
+    "url": "/bafkho/static/js/2.10e60d02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d3ef6941330e53c9204",
-    "url": "/bafkho/static/js/main.684b1046.chunk.js"
+    "revision": "41241fc793c8992b743c",
+    "url": "/bafkho/static/js/main.81d4f3aa.chunk.js"
   },
   {
     "revision": "237ee3098c57c0a68ee3",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bafkho/static/media/KBA3001W.4a1fc13b.jpg"
   },
   {
+    "revision": "0321a0003a1cdc21791af10ac9af2a0e",
+    "url": "/bafkho/static/media/KBI3001BZ.0321a000.jpg"
+  },
+  {
     "revision": "f5e30b642947ab75b15239d8b0b121c4",
     "url": "/bafkho/static/media/KBJ3001W.f5e30b64.jpg"
   },
@@ -72,8 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bafkho/static/media/KBOV-3001BK-KBOV-2001BK-detail-front.073509e2.jpg"
   },
   {
+    "revision": "9772ef73c4947ea1d615d0845c6c4b93",
+    "url": "/bafkho/static/media/KBOV2001AZ.9772ef73.jpg"
+  },
+  {
     "revision": "79efadacde6e12de960903bbd966e347",
     "url": "/bafkho/static/media/KBOV2001BG.79efadac.jpg"
+  },
+  {
+    "revision": "be6b3deeecd41d36da5ff829a0b36710",
+    "url": "/bafkho/static/media/KBOV2001BK.be6b3dee.jpg"
   },
   {
     "revision": "b0f2f115b8d9f32405f769136e0c6b6c",
