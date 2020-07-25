@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66d4f5ba3d36b4226d5a241f67c4bc99",
+    "revision": "20e5cee64d232cdd71c14e87fd9816af",
     "url": "/bafkho/index.html"
   },
   {
-    "revision": "edffc83a83bed9f81551",
+    "revision": "96159cdd774eae8d5fdd",
     "url": "/bafkho/static/css/2.e2dd9b0a.chunk.css"
   },
   {
-    "revision": "41241fc793c8992b743c",
-    "url": "/bafkho/static/css/main.96fc7a69.chunk.css"
+    "revision": "0ced146ca89ccb7ae4fb",
+    "url": "/bafkho/static/css/main.e90760a1.chunk.css"
   },
   {
-    "revision": "edffc83a83bed9f81551",
-    "url": "/bafkho/static/js/2.10e60d02.chunk.js"
+    "revision": "96159cdd774eae8d5fdd",
+    "url": "/bafkho/static/js/2.f70ee63a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/bafkho/static/js/2.10e60d02.chunk.js.LICENSE.txt"
+    "url": "/bafkho/static/js/2.f70ee63a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41241fc793c8992b743c",
-    "url": "/bafkho/static/js/main.81d4f3aa.chunk.js"
+    "revision": "0ced146ca89ccb7ae4fb",
+    "url": "/bafkho/static/js/main.2158018c.chunk.js"
   },
   {
     "revision": "237ee3098c57c0a68ee3",
@@ -148,8 +148,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bafkho/static/media/christian-mackie-cc0Gg3BegjE-unsplash.3d0bd0a8.jpg"
   },
   {
+    "revision": "69db51c6b20f31d8ab66fdd6791716d0",
+    "url": "/bafkho/static/media/close-icon.69db51c6.svg"
+  },
+  {
     "revision": "ee76743ff81bb72d1282fa4b0954f5f3",
     "url": "/bafkho/static/media/close-menu-icon.ee76743f.svg"
+  },
+  {
+    "revision": "940f1bcf723a2fe651072069059a20b9",
+    "url": "/bafkho/static/media/correct.940f1bcf.svg"
+  },
+  {
+    "revision": "9cd87937120f8cd321619465087b092b",
+    "url": "/bafkho/static/media/cross-icon.9cd87937.svg"
   },
   {
     "revision": "db0bce9ee54e3b6712005b7b697618d9",
@@ -162,6 +174,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "44cbc3cc3a751c6c214234492933f193",
     "url": "/bafkho/static/media/facebook.44cbc3cc.svg"
+  },
+  {
+    "revision": "5fe41c1a6a64162a3a7a11b98959cd67",
+    "url": "/bafkho/static/media/filter-icon.5fe41c1a.svg"
+  },
+  {
+    "revision": "30ca122b012ce0060cb627a5b07a4c7a",
+    "url": "/bafkho/static/media/filter-menu-icon.30ca122b.svg"
   },
   {
     "revision": "7a8b9929776be02f7cd43829a8b7079c",
