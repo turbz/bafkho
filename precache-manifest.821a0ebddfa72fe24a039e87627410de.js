@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3035de25f8f27e32e1f0ffb2ab4c56bc",
+    "revision": "4dc6912a3768fbbf6d7303eb67b8b58b",
     "url": "/bafkho/index.html"
   },
   {
-    "revision": "d01feff592d840f8630f",
+    "revision": "45d1d92c9915d4e70aa5",
     "url": "/bafkho/static/css/2.44b4cffb.chunk.css"
   },
   {
-    "revision": "e73748eca58c90cc12b1",
-    "url": "/bafkho/static/css/main.7a32798b.chunk.css"
+    "revision": "dbb7d2b3be76ca1ddc73",
+    "url": "/bafkho/static/css/main.be71df21.chunk.css"
   },
   {
-    "revision": "d01feff592d840f8630f",
-    "url": "/bafkho/static/js/2.11adf52d.chunk.js"
+    "revision": "45d1d92c9915d4e70aa5",
+    "url": "/bafkho/static/js/2.3df19265.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/bafkho/static/js/2.11adf52d.chunk.js.LICENSE.txt"
+    "url": "/bafkho/static/js/2.3df19265.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e73748eca58c90cc12b1",
-    "url": "/bafkho/static/js/main.2bebaac9.chunk.js"
+    "revision": "dbb7d2b3be76ca1ddc73",
+    "url": "/bafkho/static/js/main.35b9cfbb.chunk.js"
   },
   {
     "revision": "237ee3098c57c0a68ee3",
@@ -172,6 +172,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bafkho/static/media/down-arrow.fde5ef3d.svg"
   },
   {
+    "revision": "8f0b085207bf3c5a763a09ab14ab2cb3",
+    "url": "/bafkho/static/media/facebook-black.8f0b0852.svg"
+  },
+  {
     "revision": "44cbc3cc3a751c6c214234492933f193",
     "url": "/bafkho/static/media/facebook.44cbc3cc.svg"
   },
@@ -198,6 +202,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "874c6bae00ca5a5b3e70d966632d43d6",
     "url": "/bafkho/static/media/heart.874c6bae.svg"
+  },
+  {
+    "revision": "009bc89763480fd45e6d7a862470da0d",
+    "url": "/bafkho/static/media/instagram-black.009bc897.svg"
   },
   {
     "revision": "972753049f5ee27e32661857a0bff693",
@@ -236,6 +244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bafkho/static/media/tag.348670d3.svg"
   },
   {
+    "revision": "4d8351b34734fda6756cee0d1d11b089",
+    "url": "/bafkho/static/media/twitter-black.4d8351b3.svg"
+  },
+  {
     "revision": "ae5cc0ef590d84ab0c91f1d7ff8551b2",
     "url": "/bafkho/static/media/twitter.ae5cc0ef.svg"
   },
@@ -246,6 +258,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ed0e65fc70f7364947ed37ebbde1d288",
     "url": "/bafkho/static/media/wallet.ed0e65fc.svg"
+  },
+  {
+    "revision": "9ee1c576b488b21758b4e25e2e15028d",
+    "url": "/bafkho/static/media/whatsapp-black.9ee1c576.svg"
   },
   {
     "revision": "db33aed28075221a1593cf0490c0b21d",

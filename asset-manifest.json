@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bafkho/static/css/main.7a32798b.chunk.css",
-    "main.js": "/bafkho/static/js/main.2bebaac9.chunk.js",
+    "main.css": "/bafkho/static/css/main.be71df21.chunk.css",
+    "main.js": "/bafkho/static/js/main.35b9cfbb.chunk.js",
     "runtime-main.js": "/bafkho/static/js/runtime-main.e35e67c4.js",
     "static/css/2.44b4cffb.chunk.css": "/bafkho/static/css/2.44b4cffb.chunk.css",
-    "static/js/2.11adf52d.chunk.js": "/bafkho/static/js/2.11adf52d.chunk.js",
+    "static/js/2.3df19265.chunk.js": "/bafkho/static/js/2.3df19265.chunk.js",
     "index.html": "/bafkho/index.html",
-    "precache-manifest.5c8595ebba97a637558865607c9a9b74.js": "/bafkho/precache-manifest.5c8595ebba97a637558865607c9a9b74.js",
+    "precache-manifest.821a0ebddfa72fe24a039e87627410de.js": "/bafkho/precache-manifest.821a0ebddfa72fe24a039e87627410de.js",
     "service-worker.js": "/bafkho/service-worker.js",
-    "static/js/2.11adf52d.chunk.js.LICENSE.txt": "/bafkho/static/js/2.11adf52d.chunk.js.LICENSE.txt",
+    "static/js/2.3df19265.chunk.js.LICENSE.txt": "/bafkho/static/js/2.3df19265.chunk.js.LICENSE.txt",
     "static/media/2000-1024x768.jpg": "/bafkho/static/media/2000-1024x768.6a690d6d.jpg",
     "static/media/4000-1024x768.jpg": "/bafkho/static/media/4000-1024x768.dbf79c4d.jpg",
     "static/media/FAB30RPK3-324x324.jpg": "/bafkho/static/media/FAB30RPK3-324x324.defdb452.jpg",
@@ -45,6 +45,7 @@
     "static/media/cross-icon.svg": "/bafkho/static/media/cross-icon.9cd87937.svg",
     "static/media/delivery.svg": "/bafkho/static/media/delivery.db0bce9e.svg",
     "static/media/down-arrow.svg": "/bafkho/static/media/down-arrow.fde5ef3d.svg",
+    "static/media/facebook-black.svg": "/bafkho/static/media/facebook-black.8f0b0852.svg",
     "static/media/facebook.svg": "/bafkho/static/media/facebook.44cbc3cc.svg",
     "static/media/filter-icon.svg": "/bafkho/static/media/filter-icon.5fe41c1a.svg",
     "static/media/filter-menu-icon.svg": "/bafkho/static/media/filter-menu-icon.30ca122b.svg",
@@ -52,6 +53,7 @@
     "static/media/headset.svg": "/bafkho/static/media/headset.34ecc3a0.svg",
     "static/media/heart-white.svg": "/bafkho/static/media/heart-white.b9989740.svg",
     "static/media/heart.svg": "/bafkho/static/media/heart.874c6bae.svg",
+    "static/media/instagram-black.svg": "/bafkho/static/media/instagram-black.009bc897.svg",
     "static/media/instagram.svg": "/bafkho/static/media/instagram.97275304.svg",
     "static/media/left-arrow.svg": "/bafkho/static/media/left-arrow.525195e1.svg",
     "static/media/menu-icon.svg": "/bafkho/static/media/menu-icon.c3d47990.svg",
@@ -61,17 +63,19 @@
     "static/media/right-arrow.svg": "/bafkho/static/media/right-arrow.dcdf489a.svg",
     "static/media/search.svg": "/bafkho/static/media/search.2e78125c.svg",
     "static/media/tag.svg": "/bafkho/static/media/tag.348670d3.svg",
+    "static/media/twitter-black.svg": "/bafkho/static/media/twitter-black.4d8351b3.svg",
     "static/media/twitter.svg": "/bafkho/static/media/twitter.ae5cc0ef.svg",
     "static/media/unlock.svg": "/bafkho/static/media/unlock.57b4e6a3.svg",
     "static/media/wallet.svg": "/bafkho/static/media/wallet.ed0e65fc.svg",
+    "static/media/whatsapp-black.svg": "/bafkho/static/media/whatsapp-black.9ee1c576.svg",
     "static/media/whatsapp.svg": "/bafkho/static/media/whatsapp.db33aed2.svg",
     "static/media/zapper.png": "/bafkho/static/media/zapper.2f8dc008.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e35e67c4.js",
     "static/css/2.44b4cffb.chunk.css",
-    "static/js/2.11adf52d.chunk.js",
-    "static/css/main.7a32798b.chunk.css",
-    "static/js/main.2bebaac9.chunk.js"
+    "static/js/2.3df19265.chunk.js",
+    "static/css/main.be71df21.chunk.css",
+    "static/js/main.35b9cfbb.chunk.js"
   ]
 }
